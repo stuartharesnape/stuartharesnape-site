@@ -6,7 +6,7 @@ Large multi-unit investment opportunity in Plymouth.
 
 - Strong rental income
 - Investor-focused asset
-- Parking
+- Private Parking
 - Updated compliance works completed
 - Potential value-add opportunities
 
@@ -17,8 +17,8 @@ Large multi-unit investment opportunity in Plymouth.
 | Metric | Value |
 |---|---|
 | Asking Price | £455,000 |
-| Gross Rent | £52,000 |
-| Gross Yield | 12.2% |
+| Gross Rent | £58,000 |
+| Gross Yield | 12.8% |
 
 ---
 
@@ -26,7 +26,15 @@ Large multi-unit investment opportunity in Plymouth.
 
 10-bedroom investment property located in Plymouth.
 
-Further details to follow.
+## Property Details
+
+Boringdon Villas is a substantial multi-room investment property located in a popular and well-established residential area of Plymouth.
+
+The property benefits from strong ongoing rental demand driven by Plymouth’s large student, healthcare, naval, and professional tenant markets. Situated in a pleasant leafy part of the city, the area remains consistently attractive to tenants looking for good access to both the city centre and major transport links.
+
+The property offers convenient access to the A38 Devon Expressway, providing direct onward connections to Exeter, the M5 motorway network, and wider Devon and Cornwall. Plymouth city centre, railway station, and key employment areas are all easily accessible.
+
+The asset has undergone compliance and improvement works and represents an attractive opportunity for investors seeking strong income generation with further long-term potential.
 
 ---
 
@@ -86,16 +94,8 @@ Further details to follow.
 
 ---
 
-## Downloads
-
-- EPC
-- Floorplans
-- Investment brochure
-
----
-
 ## Contact
 
 **Stuart Haresnape**
 
-Email: stuart@haresnape.co.uk
+WhatsApp: 07762514001
