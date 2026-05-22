@@ -1,0 +1,16 @@
+site_name: Stuart Haresnape
+site_url: https://stuartharesnape.com
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+markdown_extensions:
+  - tables
+
+nav:
+  - Home: index.md
+  - Investments:
+      - Overview: investments/index.md
+      - Boringdon Villas: investments/boringdon-villas/index.md
