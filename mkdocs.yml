@@ -5,9 +5,14 @@ theme:
   name: material
   palette:
     scheme: slate
+  features:
+    - navigation.tabs
 
 markdown_extensions:
   - tables
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md

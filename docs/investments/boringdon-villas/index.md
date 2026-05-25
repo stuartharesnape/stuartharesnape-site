@@ -1,12 +1,16 @@
 # Boringdon Villas
 
-## Investment Summary
-
 Large multi-unit investment opportunity in Plymouth.
 
+> Asking Price: £455,000  
+> Gross Rent: £58,200  
+> Gross Yield: 12.8%
+
+## Investment Summary
+
 - Strong rental income
-- Investor-focused asset
-- Private Parking
+- High-yield investment opportunity
+- Private off-road parking
 - Updated compliance works completed
 - Potential value-add opportunities
 
@@ -17,14 +21,12 @@ Large multi-unit investment opportunity in Plymouth.
 | Metric | Value |
 |---|---|
 | Asking Price | £455,000 |
-| Gross Rent | £58,000 |
+| Gross Rent | £58,200 |
 | Gross Yield | 12.8% |
 
+Current gross annual rental income based on occupied rooms and existing tenancy agreements.
+
 ---
-
-## Property Details
-
-10-bedroom investment property located in Plymouth.
 
 ## Property Details
 
@@ -34,7 +36,7 @@ The property benefits from strong ongoing rental demand driven by Plymouth’s l
 
 The property offers convenient access to the A38 Devon Expressway, providing direct onward connections to Exeter, the M5 motorway network, and wider Devon and Cornwall. Plymouth city centre, railway station, and key employment areas are all easily accessible.
 
-The asset has undergone compliance and improvement works and represents an attractive opportunity for investors seeking strong income generation with further long-term potential.
+The property has undergone compliance and improvement works and represents an attractive opportunity for investors seeking strong income generation with further long-term potential.
 
 ---
 
@@ -97,5 +99,5 @@ The asset has undergone compliance and improvement works and represents an attra
 ## Contact
 
 **Stuart Haresnape**
-
-WhatsApp: 07762514001
+Mobile: 07762514001
+[Enquire via WhatsApp](https://wa.me/447762514001)
