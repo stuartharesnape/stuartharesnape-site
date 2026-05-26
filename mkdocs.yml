@@ -13,9 +13,6 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
-
-extra_css:
-  - stylesheets/extra.css
   - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
 
 extra_javascript:
