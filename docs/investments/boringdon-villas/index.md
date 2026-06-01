@@ -33,8 +33,26 @@ Large multi-unit investment opportunity in Plymouth.
 
 - Figures exclude finance costs, management fees, major capital expenditure, and replacement of carpets, beds and furniture.
 
+## Current Room Rates
 
-### Running Costs
+| Room | Monthly Rent |
+|---|---:|
+| Room 1 | £540.00 |
+| Room 2 | £288.00 |
+| Room 3 | £480.00 |
+| Room 4 | £530.00 |
+| Room 5 | £500.00 |
+| Room 6 | £560.00 |
+| Room 7 | £417.99 |
+| Room 8 | £520.00 |
+| Room 9 | £560.00 |
+| Room 10 | £455.00 |
+| **Total Monthly Rent** | **£4,850.99** |
+| **Annual Gross Rent** | **£58,211.88** |
+
+Current rents reflect existing tenancy agreements and occupancy levels.
+
+## Running Costs
 
 | Cost | Annual Amount |
 |---|---:|
