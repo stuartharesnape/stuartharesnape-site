@@ -50,18 +50,32 @@ The asset should be viewed as a **7-bed HMO together with a self-contained 3-bed
 
 ## Current Rental Income
 
-| Unit | Monthly Rent |
+### 3-Bedroom Flat
+
+| Metric | Value |
 |---|---:|
-| HMO Room 1 | £540.00 |
-| HMO Room 2 | £288.00 |
-| HMO Room 3 | £480.00 |
-| HMO Room 4 | £530.00 |
-| HMO Room 5 | £500.00 |
-| HMO Room 6 | £560.00 |
-| HMO Room 7 | £417.99 |
-| 3-Bed Flat | £1,535.00 |
-| **Total Monthly Rent** | **£4,850.99** |
-| **Annual Gross Rent** | **£58,211.88** |
+| Current Monthly Income | £1,308.00 |
+| Current Annual Income | £15,696.00 |
+
+### 7-Bedroom HMO
+
+| Room | Monthly Rent |
+|---|---:|
+| Room 1 | £530.00 |
+| Room 2 | £500.00 |
+| Room 3 | £560.00 |
+| Room 4 | £417.99 |
+| Room 5 | £520.00 |
+| Room 6 | £560.00 |
+| Room 7 | £455.00 |
+| **HMO Total** | **£3,542.99** |
+
+### Overall Income
+
+| Metric | Value |
+|---|---:|
+| Total Monthly Income | £4,850.99 |
+| Annual Gross Income | £58,211.88 |
 
 Current rents reflect existing tenancy agreements and occupancy levels.
 
