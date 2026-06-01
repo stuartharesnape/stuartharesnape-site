@@ -19,12 +19,36 @@ Large multi-unit investment opportunity in Plymouth.
 ## Financial Overview
 
 | Metric | Value |
-|---|---|
+|---|---:|
 | Asking Price | £455,000 |
 | Gross Rent | £58,200 |
 | Gross Yield | 12.8% |
+| Operating Costs | £17,656.77 |
+| Net Income (Before Finance) | £40,543.23 |
+| Net Yield (Before Finance) | 8.9% |
 
-Current gross annual rental income based on occupied rooms and existing tenancy agreements.
+- Gross rental income is based on current occupied rooms and existing tenancy agreements.
+
+- Operating costs include council tax, utilities, insurance, cleaning, maintenance labour and routine maintenance materials.
+
+- Figures exclude finance costs, management fees, major capital expenditure, and replacement of carpets, beds and furniture.
+
+
+### Running Costs
+
+| Cost | Annual Amount |
+|---|---:|
+| Council Tax | £2,441.85 |
+| Water Rates | £2,601.43 |
+| House Insurance | £906.02 |
+| Gas & Electric | £5,352.97 |
+| TV Licence | £174.50 |
+| Maintenance Man | £1,800.00 |
+| Cleaner | £2,340.00 |
+| General Maintenance Materials | £2,040.00 |
+| **Total Running Costs** | **£17,656.77** |
+
+Running costs are based on the figures supplied and do not include carpets, beds, furniture, or major one-off capital expenditure.
 
 ---
 
@@ -40,6 +64,8 @@ The property has undergone compliance and improvement works and represents an at
 
 ---
 ## Gallery
+
+Click on an image to open the gallery.
 
 <div class="gallery">
 
