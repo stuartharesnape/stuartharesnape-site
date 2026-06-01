@@ -54,8 +54,8 @@ The asset should be viewed as a **7-bed HMO together with a self-contained 3-bed
 
 | Metric | Value |
 |---|---:|
-| Current Monthly Income | £1,308.00 |
-| Current Annual Income | £15,696.00 |
+| Flat Monthly Income | £1,308.00 |
+| Flat Annual Income | £15,696.00 |
 
 ### 7-Bedroom HMO
 
@@ -68,7 +68,8 @@ The asset should be viewed as a **7-bed HMO together with a self-contained 3-bed
 | Room 5 | £520.00 |
 | Room 6 | £560.00 |
 | Room 7 | £455.00 |
-| **HMO Total** | **£3,542.99** |
+| HMO Monthly Total | £3,542.99 |
+| HMO Annual Total | £41,435.88 |
 
 ### Overall Income
 
