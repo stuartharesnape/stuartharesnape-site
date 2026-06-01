@@ -1,6 +1,6 @@
 # Boringdon Villas
 
-Large multi-unit investment opportunity in Plymouth.
+Substantial Plymouth investment opportunity comprising a **7-bedroom HMO and separate 3-bedroom flat**.
 
 > Asking Price: £455,000  
 > Gross Rent: £58,200  
@@ -8,11 +8,14 @@ Large multi-unit investment opportunity in Plymouth.
 
 ## Investment Summary
 
-- Strong rental income
-- High-yield investment opportunity
+- 7-bed HMO plus separate 3-bed flat
+- Strong existing rental income
+- Net income of approximately £40,500 before finance costs
 - Private off-road parking
-- Updated compliance works completed
-- Potential value-add opportunities
+- Recent external improvement works completed
+- Scope for future rental growth
+- Established Plymouth rental location
+- Attractive yield profile
 
 ---
 
@@ -28,25 +31,35 @@ Large multi-unit investment opportunity in Plymouth.
 | Net Yield (Before Finance) | 8.9% |
 
 - Gross rental income is based on current occupied rooms and existing tenancy agreements.
-
 - Operating costs include council tax, utilities, insurance, cleaning, maintenance labour and routine maintenance materials.
-
 - Figures exclude finance costs, management fees, major capital expenditure, and replacement of carpets, beds and furniture.
 
-## Current Room Rates
+---
 
-| Room | Monthly Rent |
+## Property Configuration
+
+The property is currently arranged as:
+
+- 7-bedroom HMO accommodation
+- Separate 3-bedroom flat
+- Shared utility services
+- Off-road parking
+- Established tenant demand
+
+The asset should be viewed as a **7-bed HMO together with a self-contained 3-bed flat**, offering two complementary income streams within the same property.
+
+## Current Rental Income
+
+| Unit | Monthly Rent |
 |---|---:|
-| Room 1 | £540.00 |
-| Room 2 | £288.00 |
-| Room 3 | £480.00 |
-| Room 4 | £530.00 |
-| Room 5 | £500.00 |
-| Room 6 | £560.00 |
-| Room 7 | £417.99 |
-| Room 8 | £520.00 |
-| Room 9 | £560.00 |
-| Room 10 | £455.00 |
+| HMO Room 1 | £540.00 |
+| HMO Room 2 | £288.00 |
+| HMO Room 3 | £480.00 |
+| HMO Room 4 | £530.00 |
+| HMO Room 5 | £500.00 |
+| HMO Room 6 | £560.00 |
+| HMO Room 7 | £417.99 |
+| 3-Bed Flat | £1,535.00 |
 | **Total Monthly Rent** | **£4,850.99** |
 | **Annual Gross Rent** | **£58,211.88** |
 
@@ -69,6 +82,14 @@ Current rents reflect existing tenancy agreements and occupancy levels.
 Running costs are based on the figures supplied and do not include carpets, beds, furniture, or major one-off capital expenditure.
 
 ---
+
+## Asset Management Potential
+
+Recent room improvements have already resulted in higher achieved rents on selected rooms.
+
+The property offers potential for further rental growth as accommodation continues to be upgraded and rents are reviewed against prevailing market levels.
+
+Prospective purchasers should undertake their own due diligence regarding achievable rental values and future performance.
 
 ## Property Details
 
