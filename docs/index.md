@@ -6,8 +6,6 @@ With a background spanning technology, business consulting, education and proper
 
 ---
 
-## Current Projects
-
 ### 🎓 GCSE Maths Tutoring
 
 Calm, practical one-to-one online maths support for students from Key Stage 3 through to Higher GCSE.
