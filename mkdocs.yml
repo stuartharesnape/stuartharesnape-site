@@ -21,6 +21,3 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Investments:
-      - Overview: investments/index.md
-      - Boringdon Villas: investments/boringdon-villas/index.md
