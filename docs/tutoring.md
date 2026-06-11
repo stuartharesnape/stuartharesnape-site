@@ -1,6 +1,6 @@
 # GCSE Maths Tutoring
 
-<img src="images/sgh1.png" alt="Stuart Haresnape" align="right" width="240" style="margin-left: 25px; margin-bottom: 20px;" />
+<img src="/images/sgh1.png" alt="Stuart Haresnape" align="right" width="240" style="margin-left: 25px; margin-bottom: 20px;" />
 
 ## Calm, practical one-to-one maths support for Years 7-11
 
